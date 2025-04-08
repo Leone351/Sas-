@@ -14,8 +14,8 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-    ['393792004234', 'Proprietario', true],
-    ['37379715748', 'Host Manager', true],
+    ['393519102189', 'Proprietario', true],
+    ['3519102189', 'Host Manager', true],
 ] //Numero degli owner
 
 //────────────────────────────
@@ -69,13 +69,13 @@ global.author = '𝐌𝐝'
 
 global.vs = '5.𝟎'
 
-global.nomebot = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.nomebot = 'SasàBot '
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
+global.wm = 'SasàBot '
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
